@@ -1,0 +1,19 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "Shapping List desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "",
+    "build": "electron-packager . shoppingList"
+ },
+  "author": "CHEN Zhangxuan",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^6.0.10"
+  },
+  "devDependencies": {
+    "electron-packager": "^14.0.6"
+  }
+}
