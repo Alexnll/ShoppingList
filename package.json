@@ -11,7 +11,7 @@
   "author": "CHEN Zhangxuan",
   "license": "MIT",
   "dependencies": {
-    "electron": "^6.0.10"
+    "electron": "^9.1.0"
   },
   "devDependencies": {
     "electron-packager": "^14.0.6"
